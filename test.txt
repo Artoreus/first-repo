@@ -1,0 +1,4 @@
+hello world
+привет мир
+new str
+новая строка
